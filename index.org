@@ -1,11 +1,10 @@
-#+title: Jonathan's Website
+#+title: Welcome to Jonathan's website!
 #+author: Jonathan Aguilar
 
-* Welcome to my website!
-
-* About me:
+~About me~
 I'm Jonathan Aguilar, a staff scientist at Space Telescope Science Institute supporting MIRI coronagraphy for JWST. I did my Ph.D. at Johns Hopkins working with Dr. Laurent Pueyo on direct imaging of substellar objects, and I was also advised by Prof. Kevin Schlaufman. Afterwards, I spent a year as a post-doc working with Dr. Elena Sabbi at STScI.
 
-* Contact information
+~Contact information~
 Email: jaguilar at stsci.edu
+
 Mailing address: 3701 San Martin Dr, Baltimore, MD, USA 21218
